@@ -3,7 +3,7 @@
 # pyramidOS
 
 ------------------------------------
-#### Another lineage-based after-market operating system for Android. 
+#### Another AOSP-based after-market operating system for Android. 
 ------------------------------------
 
 ° [rk134](https://github.com/rk134) - Founder and maintainer of Redmi 5 Plus (vince)
